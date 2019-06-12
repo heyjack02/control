@@ -1,1 +1,1 @@
-com.example.jpushdemo,com.floor25.ilock2
+com.example.jpushdemo
